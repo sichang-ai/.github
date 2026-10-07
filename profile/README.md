@@ -10,4 +10,3 @@
 
 - **Website:** https://sichang.xyz/
 - **X (Twitter):** https://x.com/sichang_ai
-- **QQ Group:** https://qm.qq.com/q/Q2UJObsmuk
